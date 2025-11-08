@@ -20,9 +20,9 @@ Criar um sistema que permita:
 Funcionalidades básicas:
 - CRUD de tarefas (Criar, Listar, Atualizar, Excluir).
 - Classificação das tarefas em três status:
-  - 📝 A Fazer
-  - 🚧 Em Progresso
-  - ✅ Concluído
+  -  A Fazer
+  -  Em Progresso
+  -  Concluído
 
 Tecnologias utilizadas (exemplo):
 - Linguagem: Python (tkinter)
