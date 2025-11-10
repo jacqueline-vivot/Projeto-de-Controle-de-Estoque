@@ -57,24 +57,6 @@ Datetime — Manipulação de datas
 
 OS / SYS — Controle de diretórios e execução
 
- Como Executar o Projeto
-
-Clone o repositório
-
-git clone https://github.com/seu-usuario/controle-estoque.git
-
-
-Acesse a pasta do projeto
-
-cd controle-estoque
-
-
-Execute o programa
-
-python main.py
-
-
- O banco de dados estoque.db será criado automaticamente na primeira execução.
 
  Banco de Dados
 
